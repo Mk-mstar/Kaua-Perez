@@ -1,4 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kauã%20Perez&textBg=false](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kauã%20Perez&textBg=false&desc=Developer%20Jr%20•%20ADS%20Student))
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kauã%20Perez&textBg=false&desc=Developer%20Jr%20•%20ADS%20Student)
 # 👨‍💻 Kauã Perez
 
 ## Dev Jr em formação • ADS • São Paulo - SP
