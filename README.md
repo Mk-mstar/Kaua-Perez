@@ -36,16 +36,8 @@ Buscando oportunidades como:
 
 ---
 
-# 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight)
-
----
-
 # 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](SEULINK)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kau%C3%A3-perez-0b2aa53a6/)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:SEUEMAIL)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:mkperez.contato@gmail.com)
